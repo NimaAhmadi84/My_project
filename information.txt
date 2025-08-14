@@ -1,0 +1,15 @@
+git init
+git status
+git add . or file name
+git commit -m "mesage"
+git commit -a -m "masage"
+git rm --cached name file
+git rm --cached -r . 
+git diff
+git log
+git log -2 --oneline
+git log -p
+git checkout --namefile or .
+git reset HEAD . or filename
+git reset id commit 
+git reset --hard id commit
