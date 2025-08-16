@@ -13,3 +13,7 @@ git checkout --namefile or .
 git reset HEAD . or filename
 git reset id commit 
 git reset --hard id commit
+git branch nameBranch
+git branch -a
+git branch -d nameBranch
+git checkout -b nameBranch
