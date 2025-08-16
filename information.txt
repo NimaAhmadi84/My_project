@@ -18,3 +18,4 @@ git branch -a
 git branch -d nameBranch
 git checkout -b nameBranch
 git checkout nameBranch
+git log --graph
