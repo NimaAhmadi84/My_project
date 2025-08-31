@@ -19,3 +19,6 @@ git branch -d nameBranch
 git checkout -b nameBranch
 git checkout nameBranch
 git log --graph
+git stash
+git stash list
+git stash drop stash@{0}
